@@ -39,7 +39,14 @@ cd savage
 python script.py
 ```
 
-### D. Output: Saved Data Split
+### D. Changing Datasets (Adult vs. Wine)
+Experiment configurations are managed entirely through savage/config.json. To switch between datasets and adjust sampling fractions, edit the dataset and sample_frac fields:
+Experiment	| config.json Setting
+| :--- | :--- |
+Adult Dataset (Small Sample) |	"dataset": "adult", "sample_frac": 0.05
+Wine Dataset (Full Sample) |	"dataset": "wine", "sample_frac": 1.0
+
+### E. Output: Saved Data Split
 Upon successful completion of the beam search, the script will generate eight CSV files in the savage/ directory, saving the complete set of clean data splits and the identified worst-case corrupted training data.
 
 | Output File Name | Description |
