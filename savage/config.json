@@ -1,8 +1,8 @@
 {
     "dtype": "float",
-    "dataset": "adult",
+    "dataset": "wine",
     "budget_pct": 0.3,
     "top_k": 3,
     "random_state": 42,
-    "sample_frac": 0.05
+    "sample_frac": 1
 }

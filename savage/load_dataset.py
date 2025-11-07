@@ -79,6 +79,19 @@ def process_adult(df):
     df = df.reset_index(drop=True)
     return df
 
+def process_wine(df):
+    df.dropna(how='any', inplace=True)
+
+    df['alcohol_bin'] = df['alcohol'].apply(lambda x: 1 if x >= 10.5 else 0).astype(int)
+    
+    df['quality'] = df['quality'].apply(lambda x: 1 if x >= 7 else 0).astype(int)
+   
+    df = df.drop(columns=['alcohol'])
+
+    df = df.reset_index(drop=True)
+    
+    return df
+
 
 def process_hmda(df):
     df = df[(df.action_taken==1) | (df.action_taken==3)]
@@ -1239,11 +1252,35 @@ def load_concrete():
     X_train, X_test, y_train, y_test = train_test_split(X, y_cat, test_size=0.2, random_state=42)
     return X_train, X_test, y_train, y_test
 
+def load_wine():
+    df = pd.read_csv('winequality-red.csv', sep=';') 
+
+    processed_df = process_wine(df)
+    
+    y = processed_df['quality']
+    X = processed_df.drop(columns=['quality'])
+    
+    X_train, X_test, y_train, y_test = train_test_split(
+        X, y, 
+        test_size=0.2, 
+        random_state=1,
+        stratify=y 
+    )
+    
+    X_train = X_train.reset_index(drop=True)
+    X_test = X_test.reset_index(drop=True)
+    y_train = y_train.reset_index(drop=True)
+    y_test = y_test.reset_index(drop=True)
+    
+    return X_train, X_test, y_train, y_test
+
 def load(dataset, preprocess=True, row_num=10000, attr_num=30, sample=False):
     if dataset == 'compas':
         return load_compas()
     elif dataset == 'adult':
         return load_adult(sample=sample)
+    elif dataset == "wine":
+        return load_wine()
     elif dataset == 'german':
         return load_german(preprocess)
     elif dataset == 'traffic':
