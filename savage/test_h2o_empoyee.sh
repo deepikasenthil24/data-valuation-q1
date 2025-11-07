@@ -1,0 +1,13 @@
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0 --error_cols Y --pattern_cols Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0.05 --error_cols Y --pattern_cols Age JoiningYear Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0.1 --error_cols Y --pattern_cols Age JoiningYear Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0.15 --error_cols Y --pattern_cols Age Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0.2 --error_cols Y --pattern_cols Age Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Label --error_pcts 0.25 --error_cols Y --pattern_cols Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0 --error_cols Y --pattern_cols Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0.05 --error_cols Y --pattern_cols EverBenched Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0.1 --error_cols Y --pattern_cols EverBenched Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0.15 --error_cols Y --pattern_cols City_New_Delhi Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0.2 --error_cols Y --pattern_cols City_New_Delhi Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5
+python dataclean_allvalue.py --dataset employee --cleaning h2o --model LR --error_type Sampling --error_pcts 0.25 --error_cols Y --pattern_cols Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 5

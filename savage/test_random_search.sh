@@ -1,0 +1,43 @@
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0 --error_cols workclass --pattern_cols workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0.1 --error_cols workclass --pattern_cols workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0.2 --error_cols race --pattern_cols race Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0.3 --error_cols gender --pattern_cols gender Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0.4 --error_cols gender --pattern_cols gender Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type MNAR --error_pcts 0.5 --error_cols gender --pattern_cols gender Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0 --error_cols gender --pattern_cols Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.1 --error_cols education --pattern_cols education marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.2 --error_cols education --pattern_cols education gender relationship Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.3 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.4 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.5 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model DT --error_type MNAR --error_pcts 0.5 --error_cols marital --pattern_cols marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0 --error_cols gender --pattern_cols Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0.1 --error_cols education --pattern_cols education marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0.2 --error_cols education --pattern_cols education gender relationship Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0.3 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0.4 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model RF --error_type MNAR --error_pcts 0.5 --error_cols relationship --pattern_cols relationship age education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0 --error_cols gender --pattern_cols Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0.1 --error_cols workclass --pattern_cols workclass gender marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0.2 --error_cols workclass --pattern_cols workclass education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0.3 --error_cols relationship --pattern_cols relationship education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0.4 --error_cols relationship --pattern_cols relationship education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model NN --error_type MNAR --error_pcts 0.5 --error_cols relationship --pattern_cols relationship education Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0 --error_cols workclass --pattern_cols workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.1 --error_cols marital --pattern_cols marital workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.2 --error_cols education --pattern_cols education hours workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.3 --error_cols education --pattern_cols education marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.4 --error_cols marital --pattern_cols marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.5 --error_cols marital --pattern_cols marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0 --error_cols workclass --pattern_cols workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.1 --error_cols relationship --pattern_cols relationship workclass Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.2 --error_cols hours --pattern_cols hours Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.3 --error_cols education --pattern_cols education relationship Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.4 --error_cols marital --pattern_cols marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+python3.9 dataclean_allvalue.py --dataset adult --cleaning random --model LR --error_type Sampling --error_pcts 0.5 --error_cols marital --pattern_cols marital Y --sens_attr gender --objective AUC --n_trials 100 --n_processes 5
+

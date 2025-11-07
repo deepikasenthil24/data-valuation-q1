@@ -1,0 +1,6 @@
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0 --error_cols Gender --pattern_cols Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0.1 --error_cols Education --pattern_cols Education Age City_Pune Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0.2 --error_cols PaymentTier --pattern_cols PaymentTier Age Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0.3 --error_cols Gender --pattern_cols Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0.4 --error_cols Gender --pattern_cols Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1
+python3.9 dataclean_allvalue.py --dataset employee --cleaning random --model LR --error_type MNAR --error_pcts 0.5 --error_cols Gender --pattern_cols Gender Y --sens_attr Gender --objective AUC --n_trials 100 --n_processes 1

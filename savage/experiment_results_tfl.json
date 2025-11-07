@@ -1,0 +1,2270 @@
+[
+    {
+        "route": 0.7150368596866492,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.706726502166787,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.706607919189955,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6887383500472248,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7054387570142785,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6914744395521973,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.678637962525696,
+        "pattern_cols": [
+            "route",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7134223602700149,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7046072872104006,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6730320955330852,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7108248201288959,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6668315774487471,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7098811913161842,
+        "pattern_cols": [
+            "route",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.707374975693094,
+        "pattern_cols": [
+            "route",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6955524438857714,
+        "pattern_cols": [
+            "route",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.714196014361909,
+        "pattern_cols": [
+            "route",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6962872069281627,
+        "pattern_cols": [
+            "route",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7119818288516028,
+        "pattern_cols": [
+            "route",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6886376500083338,
+        "pattern_cols": [
+            "route",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6976982228179343,
+        "pattern_cols": [
+            "route",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6743573427690427,
+        "pattern_cols": [
+            "route",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7007237381243403,
+        "pattern_cols": [
+            "route",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6806830414189677,
+        "pattern_cols": [
+            "route",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6404472991555087,
+        "pattern_cols": [
+            "route",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6854004909995,
+        "pattern_cols": [
+            "route",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6604463268792711,
+        "pattern_cols": [
+            "route",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.7057321760931162,
+        "pattern_cols": [
+            "route",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "route": 0.6797902834879717,
+        "pattern_cols": [
+            "route",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.691530692677371,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6930437975720874,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6968763021556754,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6918041453691872,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6921991325906995,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6826984311628425,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.7060940017500973,
+        "pattern_cols": [
+            "operator",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6874519938607699,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6909579178009888,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6862866513417412,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6907278702983499,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6628770174731929,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6677295440024447,
+        "pattern_cols": [
+            "operator",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6815407279571086,
+        "pattern_cols": [
+            "operator",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.696394851797322,
+        "pattern_cols": [
+            "operator",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6963116874548586,
+        "pattern_cols": [
+            "operator",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6759086442302349,
+        "pattern_cols": [
+            "operator",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6880278939107728,
+        "pattern_cols": [
+            "operator",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6956350873659647,
+        "pattern_cols": [
+            "operator",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.7008622874881938,
+        "pattern_cols": [
+            "operator",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6803045481693427,
+        "pattern_cols": [
+            "operator",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6834144431635091,
+        "pattern_cols": [
+            "operator",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6671432267070393,
+        "pattern_cols": [
+            "operator",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6547005215567532,
+        "pattern_cols": [
+            "operator",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6547784772765153,
+        "pattern_cols": [
+            "operator",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6545616249513861,
+        "pattern_cols": [
+            "operator",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6849581053114062,
+        "pattern_cols": [
+            "operator",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "operator": 0.6403608360186677,
+        "pattern_cols": [
+            "operator",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6618641139785543,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6710740006389243,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6952361068670482,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6694631472581809,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6702057232346241,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6543760243624644,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6770932586532586,
+        "pattern_cols": [
+            "group_name",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6737047023445747,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6696576025056948,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6589599595810879,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6743635931162842,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6316922988777154,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6660705976720929,
+        "pattern_cols": [
+            "group_name",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6882862415967554,
+        "pattern_cols": [
+            "group_name",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6873056315628647,
+        "pattern_cols": [
+            "group_name",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6592625805600312,
+        "pattern_cols": [
+            "group_name",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6301342262070115,
+        "pattern_cols": [
+            "group_name",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6738534953330741,
+        "pattern_cols": [
+            "group_name",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6537805051669536,
+        "pattern_cols": [
+            "group_name",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6728055204455803,
+        "pattern_cols": [
+            "group_name",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6466127458469916,
+        "pattern_cols": [
+            "group_name",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6716250729207178,
+        "pattern_cols": [
+            "group_name",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6452869777487638,
+        "pattern_cols": [
+            "group_name",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6479213254903049,
+        "pattern_cols": [
+            "group_name",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6675024480526697,
+        "pattern_cols": [
+            "group_name",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.637026449386077,
+        "pattern_cols": [
+            "group_name",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6574539731373965,
+        "pattern_cols": [
+            "group_name",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "group_name": 0.6472617402355687,
+        "pattern_cols": [
+            "group_name",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7026323511028391,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7036938684093561,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7045201295905328,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7027110013056281,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7046006896216457,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6996814927218179,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7068421335907551,
+        "pattern_cols": [
+            "bus_garage",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7048184100505583,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7126914168842713,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6895515896716484,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6968802954330796,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7035028855769765,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7104372985999222,
+        "pattern_cols": [
+            "bus_garage",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7023549051336185,
+        "pattern_cols": [
+            "bus_garage",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.703014490388355,
+        "pattern_cols": [
+            "bus_garage",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.696951653564087,
+        "pattern_cols": [
+            "bus_garage",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6916992784321351,
+        "pattern_cols": [
+            "bus_garage",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6975815496694261,
+        "pattern_cols": [
+            "bus_garage",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6973289314684149,
+        "pattern_cols": [
+            "bus_garage",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7140100665314739,
+        "pattern_cols": [
+            "bus_garage",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7106852290405022,
+        "pattern_cols": [
+            "bus_garage",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7110151084782487,
+        "pattern_cols": [
+            "bus_garage",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6914449240235567,
+        "pattern_cols": [
+            "bus_garage",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7006801593144063,
+        "pattern_cols": [
+            "bus_garage",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6936837636813156,
+        "pattern_cols": [
+            "bus_garage",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6878348276293127,
+        "pattern_cols": [
+            "bus_garage",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.7001731867048169,
+        "pattern_cols": [
+            "bus_garage",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "bus_garage": 0.6821525675037501,
+        "pattern_cols": [
+            "bus_garage",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.683204709289405,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6906679711372854,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.7045534647758208,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6747512882660148,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6654702170953942,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6467754284960276,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6626587761820101,
+        "pattern_cols": [
+            "borough",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6730281022556809,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6929429239124395,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6870827025112506,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6599299787488194,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6444098456858715,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6639156168398245,
+        "pattern_cols": [
+            "borough",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6811101484804711,
+        "pattern_cols": [
+            "borough",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6619740159175509,
+        "pattern_cols": [
+            "borough",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6598846637313184,
+        "pattern_cols": [
+            "borough",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.650845967137063,
+        "pattern_cols": [
+            "borough",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6502402043169064,
+        "pattern_cols": [
+            "borough",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6860387209011612,
+        "pattern_cols": [
+            "borough",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6905790773098506,
+        "pattern_cols": [
+            "borough",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6358210004722485,
+        "pattern_cols": [
+            "borough",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6759320830323906,
+        "pattern_cols": [
+            "borough",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6401712421523418,
+        "pattern_cols": [
+            "borough",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6240667016223124,
+        "pattern_cols": [
+            "borough",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6491081969831658,
+        "pattern_cols": [
+            "borough",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6303592387077059,
+        "pattern_cols": [
+            "borough",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6582889153564087,
+        "pattern_cols": [
+            "borough",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "borough": 0.6344662377076504,
+        "pattern_cols": [
+            "borough",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6930128930773931,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6875924530529474,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.7018673780487805,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6727022160953386,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6899851207011501,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.689812888910495,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6705777925162509,
+        "pattern_cols": [
+            "incident_event_type",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6690224977776544,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.687342960025557,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.684460508222679,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6735934114395243,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6667392112061782,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6686068496860937,
+        "pattern_cols": [
+            "incident_event_type",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6850433531029502,
+        "pattern_cols": [
+            "incident_event_type",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6827494756653147,
+        "pattern_cols": [
+            "incident_event_type",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6755928280737818,
+        "pattern_cols": [
+            "incident_event_type",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6647394473304071,
+        "pattern_cols": [
+            "incident_event_type",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6703751770931718,
+        "pattern_cols": [
+            "incident_event_type",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.7021776383410189,
+        "pattern_cols": [
+            "incident_event_type",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6959279855825324,
+        "pattern_cols": [
+            "incident_event_type",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6720622499861103,
+        "pattern_cols": [
+            "incident_event_type",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.676089209817212,
+        "pattern_cols": [
+            "incident_event_type",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6782197101227846,
+        "pattern_cols": [
+            "incident_event_type",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6717729978054336,
+        "pattern_cols": [
+            "incident_event_type",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6745028369631646,
+        "pattern_cols": [
+            "incident_event_type",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6716985145008056,
+        "pattern_cols": [
+            "incident_event_type",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.67558501513973,
+        "pattern_cols": [
+            "incident_event_type",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "incident_event_type": 0.6703408001833434,
+        "pattern_cols": [
+            "incident_event_type",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6985949740263349,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6969108526862604,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.703952563336852,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6980364360520029,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.699251607728207,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6987512327073727,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6916272258181011,
+        "pattern_cols": [
+            "victim_category",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6964167280126674,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6995990228623812,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6977445795599756,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.7008440573087393,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6947848665203622,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6943548079059948,
+        "pattern_cols": [
+            "victim_category",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6985000034724151,
+        "pattern_cols": [
+            "victim_category",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6945112402077893,
+        "pattern_cols": [
+            "victim_category",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.698491148813823,
+        "pattern_cols": [
+            "victim_category",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6962575177787654,
+        "pattern_cols": [
+            "victim_category",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6946685406133674,
+        "pattern_cols": [
+            "victim_category",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.7020522841546752,
+        "pattern_cols": [
+            "victim_category",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6983524258292128,
+        "pattern_cols": [
+            "victim_category",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6928889278571031,
+        "pattern_cols": [
+            "victim_category",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6945987450691705,
+        "pattern_cols": [
+            "victim_category",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6983543356575366,
+        "pattern_cols": [
+            "victim_category",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6971855207233734,
+        "pattern_cols": [
+            "victim_category",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6970579094671926,
+        "pattern_cols": [
+            "victim_category",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.7004929961386743,
+        "pattern_cols": [
+            "victim_category",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6959107971276182,
+        "pattern_cols": [
+            "victim_category",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victim_category": 0.6966736867325963,
+        "pattern_cols": [
+            "victim_category",
+            "victims_sex",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6284641681482305,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6182151612589589,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6089294023279072,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6103383347685983,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6095412418745486,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6098855318351019,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6093787328462692,
+        "pattern_cols": [
+            "victims_sex",
+            "route",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6006211282571254,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.607799478443247,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6017953254347465,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6064799606922607,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6054733075448636,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6092837622923495,
+        "pattern_cols": [
+            "victims_sex",
+            "operator",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6240953490471692,
+        "pattern_cols": [
+            "victims_sex",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6235875083337963,
+        "pattern_cols": [
+            "victims_sex",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6352173211011723,
+        "pattern_cols": [
+            "victims_sex",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6079524383299072,
+        "pattern_cols": [
+            "victims_sex",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6078034717206512,
+        "pattern_cols": [
+            "victims_sex",
+            "group_name",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6265967032890715,
+        "pattern_cols": [
+            "victims_sex",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6310318455191956,
+        "pattern_cols": [
+            "victims_sex",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6165761813156285,
+        "pattern_cols": [
+            "victims_sex",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6061007729596088,
+        "pattern_cols": [
+            "victims_sex",
+            "bus_garage",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6337896376187566,
+        "pattern_cols": [
+            "victims_sex",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6192653932162898,
+        "pattern_cols": [
+            "victims_sex",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6091292398188788,
+        "pattern_cols": [
+            "victims_sex",
+            "borough",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6018510576976499,
+        "pattern_cols": [
+            "victims_sex",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.608117030807267,
+        "pattern_cols": [
+            "victims_sex",
+            "incident_event_type",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_sex": 0.6223041037002056,
+        "pattern_cols": [
+            "victims_sex",
+            "victim_category",
+            "victims_age",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.7005624444413578,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "operator",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6983779480804488,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6984625013889662,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6953559051891771,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6943167849602755,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.68044500736152,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6887814079948885,
+        "pattern_cols": [
+            "victims_age",
+            "route",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6995971130340575,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "group_name",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.7020623541585644,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6978931989277182,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6886461574254124,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6870311371465082,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6952539898049891,
+        "pattern_cols": [
+            "victims_age",
+            "operator",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.7002987145119173,
+        "pattern_cols": [
+            "victims_age",
+            "group_name",
+            "bus_garage",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6965993770487249,
+        "pattern_cols": [
+            "victims_age",
+            "group_name",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6915447559586644,
+        "pattern_cols": [
+            "victims_age",
+            "group_name",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6850089761931218,
+        "pattern_cols": [
+            "victims_age",
+            "group_name",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6907089456358687,
+        "pattern_cols": [
+            "victims_age",
+            "group_name",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6989389167453748,
+        "pattern_cols": [
+            "victims_age",
+            "bus_garage",
+            "borough",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6944140125840325,
+        "pattern_cols": [
+            "victims_age",
+            "bus_garage",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6830199768042668,
+        "pattern_cols": [
+            "victims_age",
+            "bus_garage",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6928821566475916,
+        "pattern_cols": [
+            "victims_age",
+            "bus_garage",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6918079650258349,
+        "pattern_cols": [
+            "victims_age",
+            "borough",
+            "incident_event_type",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6806705407244846,
+        "pattern_cols": [
+            "victims_age",
+            "borough",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6956305732262903,
+        "pattern_cols": [
+            "victims_age",
+            "borough",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6838575233346297,
+        "pattern_cols": [
+            "victims_age",
+            "incident_event_type",
+            "victim_category",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6894262354853046,
+        "pattern_cols": [
+            "victims_age",
+            "incident_event_type",
+            "victims_sex",
+            "Y"
+        ]
+    },
+    {
+        "victims_age": 0.6848627875159731,
+        "pattern_cols": [
+            "victims_age",
+            "victim_category",
+            "victims_sex",
+            "Y"
+        ]
+    }
+]

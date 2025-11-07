@@ -1,0 +1,4457 @@
+[
+    {
+        "decile1b": 0.8205506614597523,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8428862383407839,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8272591045318318,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.844147435056526,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8282145463963646,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7955722728450001,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8295524340978886,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7802991621173438,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8184912730367275,
+        "pattern_cols": [
+            "decile1b",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8376877331422786,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8416016643289371,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8521046293773565,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8102185693094783,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8339680521498704,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7973608882699792,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7797961297961298,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.822987618442164,
+        "pattern_cols": [
+            "decile1b",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8350173395627941,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8543562498107953,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7953354726081999,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8438351211078483,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8125781625781625,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8094414003504913,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8242664742664744,
+        "pattern_cols": [
+            "decile1b",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8483696438241892,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8142586369859097,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8359186268277178,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8245797973070699,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8113309249672886,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8151774151774152,
+        "pattern_cols": [
+            "decile1b",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8170565125110579,
+        "pattern_cols": [
+            "decile1b",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8257054393418031,
+        "pattern_cols": [
+            "decile1b",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8083678947315311,
+        "pattern_cols": [
+            "decile1b",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.812071262071262,
+        "pattern_cols": [
+            "decile1b",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8217294490021765,
+        "pattern_cols": [
+            "decile1b",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8041029677393313,
+        "pattern_cols": [
+            "decile1b",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7955334228061501,
+        "pattern_cols": [
+            "decile1b",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7886988432442978,
+        "pattern_cols": [
+            "decile1b",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.798428675701403,
+        "pattern_cols": [
+            "decile1b",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8178987678987678,
+        "pattern_cols": [
+            "decile1b",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8099272781090964,
+        "pattern_cols": [
+            "decile1b",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8323269323269322,
+        "pattern_cols": [
+            "decile1b",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7976177021631566,
+        "pattern_cols": [
+            "decile1b",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.8211145756600302,
+        "pattern_cols": [
+            "decile1b",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile1b": 0.7940680531589622,
+        "pattern_cols": [
+            "decile1b",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8515726697544878,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8420621466076013,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8038443038443038,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8054834054834054,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7924269333360242,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8046863910500273,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8231415049596867,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8088820270638453,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7989349034803579,
+        "pattern_cols": [
+            "decile3",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8421889558253195,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8402768948223495,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8274388910752547,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7959937369028277,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8295998614180432,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7908268499177591,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.829387111205293,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8333563742654653,
+        "pattern_cols": [
+            "decile3",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8131220631220633,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8281136372045463,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7941896487351034,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8347870984234621,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8012872649236286,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8102656602656604,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8078398032943488,
+        "pattern_cols": [
+            "decile3",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8487166032620579,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8034135897772261,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.805837764928674,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.833556847193211,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8327320827320828,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8256119301573847,
+        "pattern_cols": [
+            "decile3",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8294622885531975,
+        "pattern_cols": [
+            "decile3",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8410940910940912,
+        "pattern_cols": [
+            "decile3",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8258327531054803,
+        "pattern_cols": [
+            "decile3",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8141309868582596,
+        "pattern_cols": [
+            "decile3",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8318666182302547,
+        "pattern_cols": [
+            "decile3",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8178274587365497,
+        "pattern_cols": [
+            "decile3",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8098330961967326,
+        "pattern_cols": [
+            "decile3",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7905476678203952,
+        "pattern_cols": [
+            "decile3",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8175694675694676,
+        "pattern_cols": [
+            "decile3",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8342828888283433,
+        "pattern_cols": [
+            "decile3",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8147961466143284,
+        "pattern_cols": [
+            "decile3",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8399864445318992,
+        "pattern_cols": [
+            "decile3",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7949195585559221,
+        "pattern_cols": [
+            "decile3",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.8219115900934082,
+        "pattern_cols": [
+            "decile3",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "decile3": 0.7990997218269945,
+        "pattern_cols": [
+            "decile3",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8624907079452534,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8531878895515259,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.85270436634073,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8660916524552889,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8338427565700293,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8506592733865462,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.844415180778817,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8483709892800801,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8539983585438131,
+        "pattern_cols": [
+            "lsat",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8564758473849382,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8585246403428222,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8589407225770863,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8481498299680117,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8515778833960652,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8400738991648083,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8453522908068363,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8499310453855908,
+        "pattern_cols": [
+            "lsat",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8634071315889498,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8616057343330071,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8466192057101148,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8592330228693866,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8449478131296313,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8419141464596009,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8556169419805784,
+        "pattern_cols": [
+            "lsat",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.867871522416977,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8517864290591565,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8454752318388682,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8486683350319714,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8409329727511545,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8606696333969062,
+        "pattern_cols": [
+            "lsat",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8574025301298029,
+        "pattern_cols": [
+            "lsat",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8562812608267153,
+        "pattern_cols": [
+            "lsat",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8460073596437232,
+        "pattern_cols": [
+            "lsat",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.854878118514482,
+        "pattern_cols": [
+            "lsat",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8456208774390592,
+        "pattern_cols": [
+            "lsat",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8443600170872898,
+        "pattern_cols": [
+            "lsat",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8156658156658156,
+        "pattern_cols": [
+            "lsat",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8255251482524208,
+        "pattern_cols": [
+            "lsat",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8392336619609347,
+        "pattern_cols": [
+            "lsat",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8548330457421367,
+        "pattern_cols": [
+            "lsat",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.839213480122571,
+        "pattern_cols": [
+            "lsat",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8532270759543487,
+        "pattern_cols": [
+            "lsat",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8327884236975146,
+        "pattern_cols": [
+            "lsat",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.8480253752981026,
+        "pattern_cols": [
+            "lsat",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "lsat": 0.846141737050828,
+        "pattern_cols": [
+            "lsat",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.848739812376176,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8459293232020505,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8521051339233157,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8490331217603945,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8364198091470818,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.836716145807055,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8331014103741377,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8239366693912149,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8296925296925297,
+        "pattern_cols": [
+            "ugpa",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8514049923140832,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8369632051450233,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8480980299162117,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8320638957002593,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.843392129755766,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.83986198986199,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8257188939007122,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8390548845094299,
+        "pattern_cols": [
+            "ugpa",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8538564129473221,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8589106180015271,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8472083472083473,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8457147229874502,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8299752436116072,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8309720582447854,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8469927379018287,
+        "pattern_cols": [
+            "ugpa",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8488740216012944,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8384578384578385,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8514024695842878,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8415851824942733,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8311380538653268,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8510432328614147,
+        "pattern_cols": [
+            "ugpa",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8318126318126318,
+        "pattern_cols": [
+            "ugpa",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8554442190805828,
+        "pattern_cols": [
+            "ugpa",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.847724161360525,
+        "pattern_cols": [
+            "ugpa",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8203634749089292,
+        "pattern_cols": [
+            "ugpa",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8352263897718443,
+        "pattern_cols": [
+            "ugpa",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.833799197435561,
+        "pattern_cols": [
+            "ugpa",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8327105554378283,
+        "pattern_cols": [
+            "ugpa",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8172759900032627,
+        "pattern_cols": [
+            "ugpa",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8310072082799355,
+        "pattern_cols": [
+            "ugpa",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8316224179860544,
+        "pattern_cols": [
+            "ugpa",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8353506762597671,
+        "pattern_cols": [
+            "ugpa",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8486118258845531,
+        "pattern_cols": [
+            "ugpa",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8049151185514821,
+        "pattern_cols": [
+            "ugpa",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.8062605744423926,
+        "pattern_cols": [
+            "ugpa",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "ugpa": 0.827988677988678,
+        "pattern_cols": [
+            "ugpa",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8608310881038154,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.86470263742991,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8620456984093348,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.863253749617386,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8580860217223852,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8635541226450318,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8590747636202181,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8600746055291509,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8558354103808649,
+        "pattern_cols": [
+            "zfygpa",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8665728211182756,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8648677921405195,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8584299538844993,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8460166096529733,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8622429758793395,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8523523614432704,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8603371376098649,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8540483085937632,
+        "pattern_cols": [
+            "zfygpa",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8558147239965421,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8665230392503119,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8404526449980996,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8597622915804735,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8575651621106168,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.814324396142578,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8552750280023007,
+        "pattern_cols": [
+            "zfygpa",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8652386334204516,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8488011988011989,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8474483429028883,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8533051123960215,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8446220446220446,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8508079462624917,
+        "pattern_cols": [
+            "zfygpa",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8399211899211899,
+        "pattern_cols": [
+            "zfygpa",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8605310514401424,
+        "pattern_cols": [
+            "zfygpa",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8615081887809162,
+        "pattern_cols": [
+            "zfygpa",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.849806758897668,
+        "pattern_cols": [
+            "zfygpa",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8514623423714334,
+        "pattern_cols": [
+            "zfygpa",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8443566534475625,
+        "pattern_cols": [
+            "zfygpa",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8436898118716301,
+        "pattern_cols": [
+            "zfygpa",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8177736405009132,
+        "pattern_cols": [
+            "zfygpa",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8381335835881292,
+        "pattern_cols": [
+            "zfygpa",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8592690138144683,
+        "pattern_cols": [
+            "zfygpa",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8319434773980229,
+        "pattern_cols": [
+            "zfygpa",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.834764898401262,
+        "pattern_cols": [
+            "zfygpa",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.843692166419439,
+        "pattern_cols": [
+            "zfygpa",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.7944395671668399,
+        "pattern_cols": [
+            "zfygpa",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zfygpa": 0.8200074336437971,
+        "pattern_cols": [
+            "zfygpa",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8644814781178418,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8667299030935395,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8608516063061517,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8669254987436805,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8585088312361039,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8655452291815928,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8591309364036637,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8455929592293231,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.839762594308049,
+        "pattern_cols": [
+            "zgpa",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8645426963608781,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8622527304345485,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8650420286783925,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.857791366882276,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8650252104797561,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.861955216500671,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8639782776146413,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8435157435157435,
+        "pattern_cols": [
+            "zgpa",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8545695045695046,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8625319125319125,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8579684625139171,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8649058012694377,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8548433048433048,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8502980184798368,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8521231293958567,
+        "pattern_cols": [
+            "zgpa",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8648361739270831,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8529322529322527,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.860749519840429,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8539911267183996,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.839779748870658,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8598167825440554,
+        "pattern_cols": [
+            "zgpa",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8611632475268838,
+        "pattern_cols": [
+            "zgpa",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8657063475245292,
+        "pattern_cols": [
+            "zgpa",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8641488141488141,
+        "pattern_cols": [
+            "zgpa",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.862150307604853,
+        "pattern_cols": [
+            "zgpa",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8331155376609922,
+        "pattern_cols": [
+            "zgpa",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8404837586655768,
+        "pattern_cols": [
+            "zgpa",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8431047067410704,
+        "pattern_cols": [
+            "zgpa",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.7970874243601516,
+        "pattern_cols": [
+            "zgpa",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8393039620312347,
+        "pattern_cols": [
+            "zgpa",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8557129738947922,
+        "pattern_cols": [
+            "zgpa",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8281827600009418,
+        "pattern_cols": [
+            "zgpa",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8432120068483705,
+        "pattern_cols": [
+            "zgpa",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.7996296632660269,
+        "pattern_cols": [
+            "zgpa",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.8135638772002409,
+        "pattern_cols": [
+            "zgpa",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "zgpa": 0.7779367097548916,
+        "pattern_cols": [
+            "zgpa",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8527485982031437,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8582885128339675,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8536487081941628,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.85286346649983,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8556166056166056,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8540868222686404,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8537692946783855,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8503392230664957,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8546776455867364,
+        "pattern_cols": [
+            "fulltime",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8610497246860882,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.84474851747579,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8506532188350372,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8546941274214002,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8553513826241099,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8476015566924658,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8494740949286402,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8523019068473614,
+        "pattern_cols": [
+            "fulltime",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8613395022485932,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8595915868643141,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8602940830213559,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8583554492645401,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8434501525410616,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8564916564916565,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8518868337050154,
+        "pattern_cols": [
+            "fulltime",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8599762190671282,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.859007659007659,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.858909608909609,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8541488814216087,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8550789278062005,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8463830782012602,
+        "pattern_cols": [
+            "fulltime",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8563862063862064,
+        "pattern_cols": [
+            "fulltime",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8569223705587341,
+        "pattern_cols": [
+            "fulltime",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8535345126254217,
+        "pattern_cols": [
+            "fulltime",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8503398957944412,
+        "pattern_cols": [
+            "fulltime",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8546446819174092,
+        "pattern_cols": [
+            "fulltime",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8580503671412762,
+        "pattern_cols": [
+            "fulltime",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8437194119012302,
+        "pattern_cols": [
+            "fulltime",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8462251553160642,
+        "pattern_cols": [
+            "fulltime",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8530390484935939,
+        "pattern_cols": [
+            "fulltime",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8442236214963487,
+        "pattern_cols": [
+            "fulltime",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8549036821764094,
+        "pattern_cols": [
+            "fulltime",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.846061850607305,
+        "pattern_cols": [
+            "fulltime",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.850425332243514,
+        "pattern_cols": [
+            "fulltime",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8373838282929192,
+        "pattern_cols": [
+            "fulltime",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fulltime": 0.8505938505938506,
+        "pattern_cols": [
+            "fulltime",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8074467619922165,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.78816452907362,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8154219517855882,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7869065278156187,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8326959236050145,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7612708839981567,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7353143489507126,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7611206974843339,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7554447236265418,
+        "pattern_cols": [
+            "fam_inc",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8084294493385402,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8115085251448889,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7907151770788134,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.791222077585714,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7615345933527751,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7305029986848168,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7629251220160311,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7597347097347097,
+        "pattern_cols": [
+            "fam_inc",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8257533712079166,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8229654184199638,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.826452503725231,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7596011732375368,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7600503873231146,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7748139066320885,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8131667995304358,
+        "pattern_cols": [
+            "fam_inc",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8090000908182727,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8036056536056536,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7684763048399412,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7581564899746718,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7533648170011806,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7737173600809966,
+        "pattern_cols": [
+            "fam_inc",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.8139392593938048,
+        "pattern_cols": [
+            "fam_inc",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7852432079704806,
+        "pattern_cols": [
+            "fam_inc",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.750532127804855,
+        "pattern_cols": [
+            "fam_inc",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.750039690948782,
+        "pattern_cols": [
+            "fam_inc",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.790573063300336,
+        "pattern_cols": [
+            "fam_inc",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7789336925700562,
+        "pattern_cols": [
+            "fam_inc",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7668225713680259,
+        "pattern_cols": [
+            "fam_inc",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7610658701567792,
+        "pattern_cols": [
+            "fam_inc",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.795648459284823,
+        "pattern_cols": [
+            "fam_inc",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7353143489507126,
+        "pattern_cols": [
+            "fam_inc",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.758414144777781,
+        "pattern_cols": [
+            "fam_inc",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7353143489507126,
+        "pattern_cols": [
+            "fam_inc",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7397065897065896,
+        "pattern_cols": [
+            "fam_inc",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7353143489507126,
+        "pattern_cols": [
+            "fam_inc",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "fam_inc": 0.7865710047528228,
+        "pattern_cols": [
+            "fam_inc",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7385996158723431,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7367136230772595,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7150618741527832,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7090740908922727,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7074583665492756,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.715764874855784,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.743864048409503,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7232271095907459,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7226457044638862,
+        "pattern_cols": [
+            "male",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7454913773095592,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7141521777885413,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7365858047676229,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7180432362250544,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.715764874855784,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7724216860580497,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7226457044638862,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7232271095907459,
+        "pattern_cols": [
+            "male",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7217138080774445,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7856491992855629,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7468117740845014,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7161742298105935,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7496434541889088,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.717309794582522,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7148566921294195,
+        "pattern_cols": [
+            "male",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7476864885955795,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7389763435217981,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7441501259683078,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7768179631815996,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7182242000423817,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7531779668143304,
+        "pattern_cols": [
+            "male",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7637064955246774,
+        "pattern_cols": [
+            "male",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7128877856150584,
+        "pattern_cols": [
+            "male",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7493175174993357,
+        "pattern_cols": [
+            "male",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7168259350077532,
+        "pattern_cols": [
+            "male",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.729179070088161,
+        "pattern_cols": [
+            "male",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.720165861074952,
+        "pattern_cols": [
+            "male",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7578144078144079,
+        "pattern_cols": [
+            "male",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7079872988963898,
+        "pattern_cols": [
+            "male",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7090458363185637,
+        "pattern_cols": [
+            "male",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7513617695435877,
+        "pattern_cols": [
+            "male",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.715764874855784,
+        "pattern_cols": [
+            "male",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.715764874855784,
+        "pattern_cols": [
+            "male",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7290425063152336,
+        "pattern_cols": [
+            "male",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7397281170008443,
+        "pattern_cols": [
+            "male",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "male": 0.7296540160176523,
+        "pattern_cols": [
+            "male",
+            "racetxt",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.859946114491569,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8632966360239088,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8598709371436645,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8628250537341448,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8623058759422395,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8413196231378048,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8564805564805564,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8500057181875365,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8417673235855053,
+        "pattern_cols": [
+            "racetxt",
+            "decile1b",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8659300295663932,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8520646020646021,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8598736280554462,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8631422449604267,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8413009549373186,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8605182696091788,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8272337090518909,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8504374413465323,
+        "pattern_cols": [
+            "racetxt",
+            "decile3",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8682295818659455,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8682132682132682,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8633531451713271,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.859628082355355,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8627880536971446,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8408766317857227,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8664700619246073,
+        "pattern_cols": [
+            "racetxt",
+            "lsat",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8617278344551071,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8616928526019436,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8612096657551203,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8664937755846847,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.858680376862195,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8664431528067892,
+        "pattern_cols": [
+            "racetxt",
+            "ugpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8634760862033589,
+        "pattern_cols": [
+            "racetxt",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8634994634994634,
+        "pattern_cols": [
+            "racetxt",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8612150475786841,
+        "pattern_cols": [
+            "racetxt",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8648062375335103,
+        "pattern_cols": [
+            "racetxt",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8653366835185017,
+        "pattern_cols": [
+            "racetxt",
+            "zfygpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8639068002704366,
+        "pattern_cols": [
+            "racetxt",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8647285374558102,
+        "pattern_cols": [
+            "racetxt",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8478272569181661,
+        "pattern_cols": [
+            "racetxt",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8626060807878989,
+        "pattern_cols": [
+            "racetxt",
+            "zgpa",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8401100582918766,
+        "pattern_cols": [
+            "racetxt",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8144311917039188,
+        "pattern_cols": [
+            "racetxt",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8366152366152366,
+        "pattern_cols": [
+            "racetxt",
+            "fulltime",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8605246605246606,
+        "pattern_cols": [
+            "racetxt",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8537926719744903,
+        "pattern_cols": [
+            "racetxt",
+            "fam_inc",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "racetxt": 0.8593980093980095,
+        "pattern_cols": [
+            "racetxt",
+            "male",
+            "tier",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8008880008880009,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "decile3",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8330612148793968,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8469005741733016,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8080634853362125,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8405126859672313,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8141658005294368,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8176700403973131,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7792629928993564,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8155955155955157,
+        "pattern_cols": [
+            "tier",
+            "decile1b",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8276450821905368,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "lsat",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8331037649219468,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8361340679522499,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8309752537025265,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8155048655048656,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8077917032462487,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7957069866160775,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8205405705405706,
+        "pattern_cols": [
+            "tier",
+            "decile3",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8514192877829242,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "ugpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8440988304624668,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8535585626494718,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8104324967961333,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8459113277295096,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8146069418796691,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7959976050885141,
+        "pattern_cols": [
+            "tier",
+            "lsat",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8463099190371919,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "zfygpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8310722947086584,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8017329471874927,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8339423203059567,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7951661133479314,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8158429112974567,
+        "pattern_cols": [
+            "tier",
+            "ugpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8417202326293236,
+        "pattern_cols": [
+            "tier",
+            "zfygpa",
+            "zgpa",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8122042940224758,
+        "pattern_cols": [
+            "tier",
+            "zfygpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8413882413882414,
+        "pattern_cols": [
+            "tier",
+            "zfygpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8006020915111826,
+        "pattern_cols": [
+            "tier",
+            "zfygpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8170191761100852,
+        "pattern_cols": [
+            "tier",
+            "zfygpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8109750518841429,
+        "pattern_cols": [
+            "tier",
+            "zgpa",
+            "fulltime",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8156917156917156,
+        "pattern_cols": [
+            "tier",
+            "zgpa",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.797466674739402,
+        "pattern_cols": [
+            "tier",
+            "zgpa",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8257402530129803,
+        "pattern_cols": [
+            "tier",
+            "zgpa",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8104049149503695,
+        "pattern_cols": [
+            "tier",
+            "fulltime",
+            "fam_inc",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7534065261337989,
+        "pattern_cols": [
+            "tier",
+            "fulltime",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7781674554401827,
+        "pattern_cols": [
+            "tier",
+            "fulltime",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7733106960379688,
+        "pattern_cols": [
+            "tier",
+            "fam_inc",
+            "male",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.8146333464515282,
+        "pattern_cols": [
+            "tier",
+            "fam_inc",
+            "racetxt",
+            "Y"
+        ]
+    },
+    {
+        "tier": 0.7724575088211452,
+        "pattern_cols": [
+            "tier",
+            "male",
+            "racetxt",
+            "Y"
+        ]
+    }
+]

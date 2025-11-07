@@ -1,0 +1,13 @@
+[
+    {
+        "seed": 42,
+        "missing_col": "City_Pune",
+        "budget": 1395,
+        "auc": 0.7463510545937388,
+        "auc_drop": 0.0,
+        "col_list": [
+            "City_Bangalore",
+            "Y"
+        ]
+    }
+]

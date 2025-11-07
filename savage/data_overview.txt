@@ -1,0 +1,44 @@
+X_train Information:
+Shape: (3722, 10)
+Head:
+      Education  JoiningYear  ...  City_New Delhi  City_Pune
+2850          1         2013  ...             1.0        0.0
+589           0         2012  ...             0.0        0.0
+2086          1         2017  ...             0.0        1.0
+445           1         2012  ...             0.0        1.0
+3654          1         2017  ...             1.0        0.0
+
+[5 rows x 10 columns]
+
+X_test Information:
+Shape: (931, 10)
+Head:
+      Education  JoiningYear  ...  City_New Delhi  City_Pune
+297           0         2016  ...             0.0        0.0
+2705          0         2013  ...             0.0        0.0
+501           0         2017  ...             1.0        0.0
+1272          1         2015  ...             0.0        1.0
+3956          0         2012  ...             0.0        0.0
+
+[5 rows x 10 columns]
+
+y_train Information:
+Shape: (3722,)
+Head:
+2850    1
+589     0
+2086    0
+445     0
+3654    0
+Name: LeaveOrNot, dtype: int64
+
+y_test Information:
+Shape: (931,)
+Head:
+297     1
+2705    0
+501     1
+1272    0
+3956    0
+Name: LeaveOrNot, dtype: int64
+

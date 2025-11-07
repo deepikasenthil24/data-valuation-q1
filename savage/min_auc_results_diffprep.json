@@ -1,0 +1,94 @@
+{
+    "min_results_per_seed": [
+        {
+            "seed": 42,
+            "error_col": "JoiningYear",
+            "pattern_cols": [],
+            "lb_list": [],
+            "ub_list": [],
+            "auc": 0.7575506868903529
+        },
+        {
+            "seed": 43,
+            "error_col": "Education",
+            "pattern_cols": [
+                "PaymentTier",
+                "City_Bangalore"
+            ],
+            "lb_list": [
+                "3",
+                0.0
+            ],
+            "ub_list": [
+                "3",
+                1.0
+            ],
+            "auc": 0.7327204943567744
+        },
+        {
+            "seed": 44,
+            "error_col": "ExperienceInCurrentDomain",
+            "pattern_cols": [
+                "City_New Delhi",
+                "JoiningYear",
+                "PaymentTier",
+                "Age"
+            ],
+            "lb_list": [
+                0.0,
+                "2013",
+                "2",
+                "41"
+            ],
+            "ub_list": [
+                0.0,
+                "2013",
+                "3",
+                "41"
+            ],
+            "auc": 0.7637505745365405
+        },
+        {
+            "seed": 45,
+            "error_col": "Gender",
+            "pattern_cols": [
+                "City_Bangalore",
+                "Gender",
+                "JoiningYear"
+            ],
+            "lb_list": [
+                0.0,
+                "1",
+                "2017"
+            ],
+            "ub_list": [
+                0.0,
+                "1",
+                "2018"
+            ],
+            "auc": 0.7648996476175884
+        },
+        {
+            "seed": 46,
+            "error_col": "JoiningYear",
+            "pattern_cols": [
+                "Education",
+                "Age",
+                "PaymentTier"
+            ],
+            "lb_list": [
+                "0",
+                "24",
+                "3"
+            ],
+            "ub_list": [
+                "2",
+                "24",
+                "3"
+            ],
+            "auc": 0.7569174199479087
+        }
+    ],
+    "mean_min_auc": 0.755167764669833,
+    "std_min_auc": 0.011670421820358769
+}
