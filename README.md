@@ -39,12 +39,35 @@ cd savage
 python script.py
 ```
 
-### D. Changing Datasets (Adult vs. Wine)
+### D. Customizations
+#### 1. Changing Datasets (Adult vs. Wine)
 Experiment configurations are managed entirely through savage/config.json. To switch between datasets and adjust sampling fractions, edit the dataset and sample_frac fields:
 Experiment	| config.json Setting
 | :--- | :--- |
 Adult Dataset (Small Sample) |	"dataset": "adult", "sample_frac": 0.05
 Wine Dataset (Full Sample) |	"dataset": "wine", "sample_frac": 1.0
+
+#### 2. Changing Corruption Type
+The SAVAGE beam search can be configured to identify the worst-case pattern for five different types of data corruption by setting the `error_type` parameter in the `script.py` function call.
+
+| Corruption Type | `error_type` Value | Impact |
+| :--- | :--- | :--- |
+| **Feature Missingness** | `'MNAR'` (Default) | Replaces feature values in a column of x_train with NAN.|
+| **Label Errors** | `'Label'` | Flips (relabels) the class label in y_train. |
+| **Selection Bias** | `'Sampling'` | Drops entire rows from the training data. |
+| **Feature Outliers** | `'OutlierError'` | Multiplies numerical feature values by a factor (default 1.5). |
+| **Data Duplication** | `'DuplicateError'` | Duplicates and appends identified rows to the training data. |
+
+```python
+# In savage/script.py
+top_results_auc = run_beam_search(
+    # ... (7 positional arguments) ...
+    error_type='OutlierError', # Change to 'Label', 'Sampling', 'DuplicateError', etc.
+    random_state=RANDOM_STATE,
+    top_k=top_k
+)
+```
+   
 
 ### E. Output: Saved Data Split
 Upon successful completion of the beam search, the script will generate eight CSV files in the savage/ directory, saving the complete set of clean data splits and the identified worst-case corrupted training data.
