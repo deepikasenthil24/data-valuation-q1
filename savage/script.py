@@ -57,7 +57,27 @@ print(f"Total budget for missing data: {budget} rows ({budget_pct*100}%)")
 # --- Run SAVAGE for AUC (Utility) ---
 print("--- Start SAVAGE Beam Search for AUC (Utility) ---")
 
-top_results_auc = run_beam_search(X_train_orig, X_test_orig, y_train, y_test, pipeline, auc, budget, top_k=top_k)
+#top_results_auc = run_beam_search(X_train_orig, X_test_orig, y_train, y_test, pipeline, auc, budget, top_k=top_k)
+
+
+# In savage/script.py, replacing the current run_beam_search call
+
+top_results_auc = run_beam_search(
+    # 1-7: The 7 MANDATORY POSITIONAL ARGUMENTS
+    X_train_orig,                        # 1. X_train (Data to corrupt)
+    X_val_orig,                          # 2. X_test (Validation set for internal search scoring)
+    y_train,                             # 3. y_train (Labels to corrupt)
+    y_val,                               # 4. y_test (Validation labels for internal search scoring)
+    pipeline,                            # 5. pipeline
+    lambda X, y, y_pred: auc(X, y, y_pred), # 6. metric
+    budget,                              # 7. budget
+    
+    # 8+: Optional arguments, passed as keywords to avoid positional conflicts
+    error_type='Label',                  # Overrides default 'MNAR' (8th slot)
+    random_state=RANDOM_STATE,           # Overrides default 42 (10th slot)
+    top_k=top_k                          # Overrides default 5 (11th slot)
+)
+
 
 budget = int(X_train_orig.shape[0] * budget_pct)
 
