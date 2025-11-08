@@ -103,7 +103,7 @@ The files for this method are self-contained within the lava/ subdirectory:
 └── lava/
     ├── checkpoint/             # resnet embeddings
     ├── data/                   # CIFAR10 data
-    ├── otdd/                   # LAVA supporting utils
+    ├── otdd/                   # Optimal transport dataset distance
         ├── plotting.py         # plotting funtions
         └── utils.py            # supporting functions
     ├── lava-cifar10.ipynb      # Main execution file
