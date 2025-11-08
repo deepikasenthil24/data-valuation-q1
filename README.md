@@ -6,7 +6,7 @@ This repository hosts implementations of various data valuation frameworks (**LA
 
 ## 1. SAVAGE: Identifying Worst-Case Data Corruption (AUC)
 
-The **SAVAGE (Sensitivity Analysis Via Automatic Generation of Errors)** pipeline is configured to find the pattern (subset of data points and features) that, when corrupted (i.e., data masked), causes the **maximum drop in model Utility (AUC)**. The output of the search is a complete set of clean and corrupted data splits for analysis.
+The **SAVAGE** (Sensitivity Analysis Via Automatic Generation of Errors) pipeline is configured to find the pattern (subset of data points and features) that, when corrupted (i.e., data masked), causes the maximum drop in model Utility (AUC). The output of the search is a complete set of clean and corrupted data splits for analysis.
 
 ### A. Prerequisites
 
@@ -62,7 +62,8 @@ Upon successful completion of the beam search, the script will generate eight CS
 
 The console output will display the maximum AUC drop found and confirm that the data splits were successfully saved.
 
-## 2. KAIROS
+## 2. LAVA
+coming soon
 
-## 3. LAVA
-
+## 3. KAIROS
+coming soon
