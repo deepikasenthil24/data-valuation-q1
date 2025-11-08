@@ -86,7 +86,36 @@ Upon successful completion of the beam search, the script will generate eight CS
 The console output will display the maximum AUC drop found and confirm that the data splits were successfully saved.
 
 ## 2. LAVA
-coming soon
+LAVA is a novel model-agnostic framework using Sinkhorn regularized Wasserstein distance. Additional files running LAVA on the SAVAGE-perturbed experiment data coming soon.
+
+### A. Prerequisites
+
+The script requires a standard Python environment with the libraries listed in requirements.txt:
+
+```bash
+pip install -r requirements.txt
+```
+
+
+### B. Project Structure
+The files for this method are self-contained within the lava/ subdirectory:
+```
+└── lava/
+    ├── checkpoint/             # resnet embeddings
+    ├── data/                   # CIFAR10 data
+    ├── otdd/                   # LAVA supporting utils
+        ├── plotting.py         # plotting funtions
+        └── utils.py            # supporting functions
+    ├── lava-cifar10.ipynb      # Main execution file
+    ├── lava.py                 # LAVA method
+    ├── poi_util.py             # poisoning methods for LAVA
+    ├── preact_resnet           # supporting utils
+    ├── requirements.txt        # dependencies
+    ├── setup.py                # supporting utils
+    └── vgg.py                  # supporting utils
+    
+
+```
 
 ## 3. KAIROS
 coming soon
