@@ -106,6 +106,11 @@ def objective(trial, X_train, X_test, y_train, y_test, budget,
     elif error_type == 'Sampling':
         sampling_error_ratio = min(mv_pattern_len, budget) / mv_pattern_len
         mv_err = SamplingError(pattern=mv_pattern, ratio=sampling_error_ratio)
+    elif error_type == 'Outlier':
+        # suggest the outlier magnitude (multiplier) to be tuned by Optuna
+        multiplier = trial.suggest_float('multiplier', 1.5, 5.0) 
+        outlier_ratio = min(mv_pattern_len, budget) / mv_pattern_len
+        mv_err = OutlierError(col_id, pattern=mv_pattern, ratio=outlier_ratio, multiplier=multiplier)
     else:
         mv_err = MissingValueError(col_id, mv_pattern, mv_num / mv_pattern_len)
 
