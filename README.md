@@ -55,7 +55,7 @@ The SAVAGE beam search can be configured to identify the worst-case pattern for 
 | **Feature Missingness** | `'MNAR'` (Default) | Replaces feature values in a column of x_train with NAN.|
 | **Label Errors** | `'Label'` | Flips (relabels) the class label in y_train. |
 | **Selection Bias** | `'Sampling'` | Drops entire rows from the training data. |
-| **Feature Outliers** | `'OutlierError'` | Multiplies numerical feature values by a factor (default 1.5). |
+| **Feature Outliers** | `'Outlier'` | Multiplies numerical feature values by a factor (default 1.5). |
 | **Data Duplication** | `'DuplicateError'` | Duplicates and appends identified rows to the training data. |
 
 ```python
