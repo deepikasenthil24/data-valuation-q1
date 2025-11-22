@@ -67,7 +67,7 @@ top_results_auc = run_beam_search(
     pipeline,                           
     lambda X, y, y_pred: auc(X, y, y_pred), 
     budget,                         
-    error_type='MNAR',             
+    error_type='Label',             
     random_state=RANDOM_STATE,        
     top_k=top_k                    
 )
