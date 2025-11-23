@@ -7,12 +7,12 @@ from numpy.random import RandomState
 from sklearn.utils import check_random_state
 
 # Use the original OTDD library directly.
-from otdd.pytorch.distance_fast import DatasetDistance, FeatureCost
+from kairos.otdd.pytorch.distance_fast import DatasetDistance, FeatureCost
 
 from opendataval.dataval.api import DataEvaluator, ModelLessMixin
 from opendataval.model import Model
 
-from utils import torch_subset_to_tensor
+from kairos.utils import torch_subset_to_tensor
 
 
 def macos_fix():
