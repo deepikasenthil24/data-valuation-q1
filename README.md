@@ -45,7 +45,6 @@ Experiment configurations are managed entirely through savage/config.json. To sw
 Experiment	| config.json Setting
 | :--- | :--- |
 Adult Dataset (Small Sample) |	"dataset": "adult", "sample_frac": 0.05
-Wine Dataset (Full Sample) |	"dataset": "wine", "sample_frac": 1.0
 
 #### 2. Changing Corruption Type
 The SAVAGE beam search can be configured to identify the worst-case pattern for five different types of data corruption by setting the `error_type` parameter in the `script.py` function call.
