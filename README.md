@@ -85,37 +85,43 @@ Upon successful completion of the beam search, the script will generate eight CS
 
 The console output will display the maximum AUC drop found and confirm that the data splits were successfully saved.
 
-## 2. LAVA
-LAVA is a novel model-agnostic framework using Sinkhorn regularized Wasserstein distance. Additional files running LAVA on the SAVAGE-perturbed experiment data coming soon.
+## 2. Main Experiment Runner & KAIROS
 
 ### A. Prerequisites
 
-The script requires a standard Python environment with the libraries listed in requirements.txt:
+The script requires a Python 9 environment
 
 ```bash
-pip install -r requirements.txt
+# Move to the Kairos directory to run the relevant files
+cd kairos
+
+# Step 1: Install required packages from requirements.txt
+python3 -m pip install -r requirements.txt
+
+# Step 2: Install the benchmark tool opendataval
+python3 -m pip install --no-dependencies opendataval
+
+# Step 3: Fix the data-loading bug in the package by running the overwrite script
+python3 overwrite_package.py
 ```
+Then you should be able to run the code in experiment_runner.ipynb
 
 
 ### B. Project Structure
-The files for this method are self-contained within the lava/ subdirectory:
+The files for this method are self-contained within the kairos/ subdirectory:
 ```
-└── lava/
-    ├── checkpoint/             # resnet embeddings
-    ├── data/                   # CIFAR10 data
+└── kairos/
     ├── otdd/                   # Optimal transport dataset distance
+        ├── pytorch/            # distance functions
         ├── plotting.py         # plotting funtions
         └── utils.py            # supporting functions
-    ├── lava-cifar10.ipynb      # Main execution file
-    ├── lava.py                 # LAVA method
-    ├── poi_util.py             # poisoning methods for LAVA
-    ├── preact_resnet           # supporting utils
-    ├── requirements.txt        # dependencies
-    ├── setup.py                # supporting utils
-    └── vgg.py                  # supporting utils
-    
+    ├── README.md               # Kairos specific documentation
+    ├── custom_valuations.py    # Kairos class
+    ├── fixed_valuations.py     # other methods classes (Lava, KNN Shapley)
+    ├── new_dataloader_util.py  # loaders for various datasets
+    ├── overwrite_package.py    # overwrites bug in opendataval
+    └── requirements.txt        # dependencies
+
+ 
 
 ```
-
-## 3. KAIROS
-coming soon
