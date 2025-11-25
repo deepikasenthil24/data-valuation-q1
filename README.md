@@ -61,7 +61,7 @@ The SAVAGE beam search can be configured to identify the worst-case pattern for 
 # In savage/script.py
 top_results_auc = run_beam_search(
     # ... (7 positional arguments) ...
-    error_type='OutlierError', # Change to 'Label', 'Sampling', 'DuplicateError', etc.
+    error_type='Outlier', # Change to 'Label', 'Sampling', 'Duplicate', etc.
     random_state=RANDOM_STATE,
     top_k=top_k
 )
