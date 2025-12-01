@@ -88,7 +88,7 @@ The console output will display the maximum AUC drop found and confirm that the 
 
 ### A. Prerequisites
 
-The script requires a Python 9 environment
+The script requires a Python *3.9* environment
 
 ```bash
 # Move to the Kairos directory to run the relevant files
