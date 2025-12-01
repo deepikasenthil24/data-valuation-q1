@@ -4,6 +4,8 @@
 #
 #    pip-compile --output-file=requirements.txt pyproject.toml
 #
+torch
+opendataval
 annotated-types==0.7.0
     # via pydantic
 certifi==2024.6.2
