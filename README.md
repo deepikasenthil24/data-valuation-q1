@@ -4,6 +4,16 @@ This repository hosts implementations of various data valuation frameworks (**LA
 
 ***
 
+## Results
+| Experiment Number | Description | LAVA AUC | LAVA Time | KAIROS AUC | KAIROS Time |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Missing imputation | 0.99 | 2.41 | 0.79 | 1.23 |
+| 2 | Label error injection | 0.50 | 1.81 | 0.83 | 1.06 |
+| 3 | Feature Outlier injection | 1.0 | 2.35 | 1.0 | 1.08 |
+| 4 | ? | .81 | 1.91 | 0.82 | 0.60 |
+
+***
+
 ## 1. SAVAGE: Identifying Worst-Case Data Corruption (AUC)
 
 The **SAVAGE** (Sensitivity Analysis Via Automatic Generation of Errors) pipeline is configured to find the pattern (subset of data points and features) that, when corrupted (i.e., data masked), causes the maximum drop in model Utility (AUC). The output of the search is a complete set of clean and corrupted data splits for analysis.
