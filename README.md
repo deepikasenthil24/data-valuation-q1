@@ -10,7 +10,7 @@ This repository hosts implementations of various data valuation frameworks (**LA
 | 1 | Missing imputation | 0.99 | 2.41 | 0.79 | 1.23 |
 | 2 | Label error injection | 0.50 | 1.81 | 0.83 | 1.06 |
 | 3 | Feature Outlier injection | 1.0 | 2.35 | 1.0 | 1.08 |
-| 4 | ? | .81 | 1.91 | 0.82 | 0.60 |
+| 4 | Duplicate injection | .81 | 1.91 | 0.82 | 0.60 |
 
 ***
 
