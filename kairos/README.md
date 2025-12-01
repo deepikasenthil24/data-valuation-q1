@@ -15,7 +15,7 @@ python3 -m pip install --no-dependencies opendataval
 # Step 3: Fix the data-loading bug in the package by running the overwrite script
 python3 overwrite_package.py
 ```
-## Newest Results
+## Results
 - Image classification datasets (CIFAR10, STL10, SVHN): `image-data.ipynb`.
 - Text classification datasets (IMDB, AGNews): `text-data.ipynb`.
 
@@ -23,6 +23,6 @@ python3 overwrite_package.py
 - Fix deprecated usages and data loading issues.
 - Keep the validation set free from corruption.
 
-## Download Precomputed Embeddings
+## Optional: Download Precomputed Embeddings for the other datasets (not Adult)
 - Download precomputed embeddings from [here](https://drive.google.com/file/d/1JXOG4_zyDCjlSQf8phQ2jXQ5Hh8I5Pjt/view?usp=sharing).
 - Put the unzipped directory as `data_files/`.
