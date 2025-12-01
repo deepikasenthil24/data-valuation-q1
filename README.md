@@ -44,7 +44,7 @@ python script.py
 Experiment configurations are managed entirely through savage/config.json. To switch between datasets and adjust sampling fractions, edit the dataset and sample_frac fields:
 Experiment	| config.json Setting
 | :--- | :--- |
-Adult Dataset (Small Sample) |	"dataset": "adult", "sample_frac": 0.05
+Adult Dataset |	"dataset": "adult", "sample_frac": 0.05
 
 #### 2. Changing Corruption Type
 The SAVAGE beam search can be configured to identify the worst-case pattern for five different types of data corruption by setting the `error_type` parameter in the `script.py` function call.
