@@ -1,6 +1,6 @@
 # Data Valuation Quarter 1 Project for DSC180AB
 
-This repository hosts implementations of various data valuation frameworks (**LAVA** and **KAIROS**) and a framework for identifying worst-case data corruption patterns (**SAVAGE**).
+This repository hosts implementations of two data valuation frameworks (**LAVA** and **KAIROS**) and a framework for identifying worst-case data corruption patterns (**SAVAGE**).
 
 ***
 
