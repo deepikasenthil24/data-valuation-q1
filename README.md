@@ -39,7 +39,7 @@ python script.py
 ```
 
 ### D. Customizations
-#### 1. Changing Datasets (Adult vs. Wine)
+#### 1. Changing Datasets
 Experiment configurations are managed entirely through savage/config.json. To switch between datasets and adjust sampling fractions, edit the dataset and sample_frac fields:
 Experiment	| config.json Setting
 | :--- | :--- |
@@ -119,6 +119,8 @@ The files for this method are self-contained within the kairos/ subdirectory:
     ├── overwrite_package.py    # overwrites bug in opendataval
     └── requirements.txt        # dependencies
 
+```
+
 ***
 
 ### Experiment Results
@@ -133,4 +135,4 @@ The files for this method are self-contained within the kairos/ subdirectory:
 
  
 
-```
+
