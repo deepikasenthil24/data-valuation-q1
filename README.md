@@ -2,17 +2,6 @@
 
 This repository hosts implementations of two data valuation frameworks (**LAVA** and **KAIROS**) and a framework for identifying worst-case data corruption patterns (**SAVAGE**).
 
-***
-
-## Results
-| Experiment Number | Description | LAVA AUC | LAVA Time | KAIROS AUC | KAIROS Time |
-| :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | Missing feature value error injection | 0.99 | 2.41 | 0.79 | 1.23 |
-| 2 | Label error injection | 0.50 | 1.81 | 0.83 | 1.06 |
-| 3 | Feature outlier injection | 1.0 | 2.35 | 1.0 | 1.08 |
-| 4 | Duplicate injection | .81 | 1.91 | 0.82 | 0.60 |
-
-***
 
 ## 1. SAVAGE: Identifying Worst-Case Data Corruption (AUC)
 
@@ -129,6 +118,18 @@ The files for this method are self-contained within the kairos/ subdirectory:
     ├── new_dataloader_util.py  # loaders for various datasets
     ├── overwrite_package.py    # overwrites bug in opendataval
     └── requirements.txt        # dependencies
+
+***
+
+### Experiment Results
+| Experiment Number | Description | LAVA AUC | LAVA Time | KAIROS AUC | KAIROS Time |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| 1 | Missing feature value error injection | 0.99 | 2.41 | 0.79 | 1.23 |
+| 2 | Label error injection | 0.50 | 1.81 | 0.83 | 1.06 |
+| 3 | Feature outlier injection | 1.0 | 2.35 | 1.0 | 1.08 |
+| 4 | Duplicate injection | .81 | 1.91 | 0.82 | 0.60 |
+
+***
 
  
 
