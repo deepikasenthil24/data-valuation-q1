@@ -57,13 +57,12 @@ Experiment	| config.json Setting
 Adult Dataset |	"dataset": "adult", "sample_frac": 0.05
 
 #### 2. Changing Corruption Type
-The SAVAGE beam search can be configured to identify the worst-case pattern for five different types of data corruption by setting the `error_type` parameter in the `script.py` function call.
+The SAVAGE beam search can be configured to identify the worst-case pattern for four different types of data corruption by setting the `error_type` parameter in the `script.py` function call.
 
 | Corruption Type | `error_type` Value | Impact |
 | :--- | :--- | :--- |
 | **Feature Missingness** | `'MNAR'` (Default) | Replaces feature values in a column of x_train with NAN.|
 | **Label Errors** | `'Label'` | Flips (relabels) the class label in y_train. |
-| **Selection Bias** | `'Sampling'` | Drops entire rows from the training data. |
 | **Feature Outliers** | `'Outlier'` | Multiplies numerical feature values by a factor (default 1.5). |
 | **Data Duplication** | `'Duplicate'` | Duplicates and appends identified rows to the training data. |
 
@@ -71,7 +70,7 @@ The SAVAGE beam search can be configured to identify the worst-case pattern for 
 # In savage/script.py
 top_results_auc = run_beam_search(
     # ... (7 positional arguments) ...
-    error_type='Outlier', # Change to 'Label', 'Sampling', 'Duplicate', etc.
+    error_type='Outlier', # Change to 'Label', 'Duplicate', etc.
     random_state=RANDOM_STATE,
     top_k=top_k
 )
